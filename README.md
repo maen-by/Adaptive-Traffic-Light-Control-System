@@ -25,23 +25,6 @@ This system replaces traditional fixed-timing signals with a **dynamic schedulin
 
 ---
 
-## 🖼️ Project Preview
-
-### 🔹 System Logic Flowchart
-![Flowchart](logic_flowchart.png)
-
-### 🔹 Arduino Wiring
-![Wiring](arduino_wiring.png)
-
-### 🔹 Full Intersection Simulation
-![Simulation](full_intersection_view.png)
-
-### 🔹 Signal Details
-![Green Signal](green_signal_detail.png)
-![Red Signal](red_signal_detail.png)
-
-### 🔹 Serial Monitor Output
-![Serial Output](serial_monitor_output.png)
 
 ---
 
